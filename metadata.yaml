@@ -1,0 +1,27 @@
+_repo: Account-of-the-Romansh-LanguageIn-a-Letter-to-Sir-John-Pringle-Bart.-P.-R.-S._10069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Planta, Joseph
+    alias: Planta, J. (Joseph)
+    birthdate: 1744
+    deathdate: 1827
+    gutenberg_agent_id: '3292'
+    url: http://www.gutenberg.org/2009/agents/3292
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Raeto-Romance language -- Early works to 1800'
+- GITenberg
+title: 'Account of the Romansh Language
+
+  In a Letter to Sir John Pringle, Bart. P. R. S.'
+url: http://www.gutenberg.org/ebooks/10069
